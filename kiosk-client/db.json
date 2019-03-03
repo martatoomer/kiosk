@@ -1,0 +1,118 @@
+{
+    "productions": [
+        {
+            "id": 1,
+            "title": "Historic Theatre Tours",
+            "date": "Sep 3,2018-Mar 28,2019",
+            "img": "http://placekitten.com/200/300",
+            "tags": [
+                "International Dance Series"
+            ]
+        },
+        {
+            "id": 2,
+            "title": "Historic Theatre Tours",
+            "date": "Sep 3,2018-Mar 28,2019",
+            "img": "http://placekitten.com/200/300",
+            "tags": [
+                "International Dance Series"
+            ]
+        },
+        {
+            "id": 3,
+            "title": "Historic Theatre Tours",
+            "date": "Sep 3,2018-Mar 28,2019",
+            "img": "http://placekitten.com/200/300",
+            "tags": [
+                "International Dance Series"
+            ]
+        },
+        {
+            "id": 4,
+            "title": "Historic Theatre Tours",
+            "date": "Sep 3,2018-Mar 28,2019",
+            "img": "http://placekitten.com/200/300",
+            "tags": [
+                "International Dance Series"
+            ]
+        },
+        {
+            "id": 5,
+            "title": "Historic Theatre Tours",
+            "date": "Sep 3,2018-Mar 28,2019",
+            "img": "http://placekitten.com/200/300",
+            "tags": [
+                "International Dance Series"
+            ]
+        },
+        {
+            "id": 6,
+            "title": "Historic Theatre Tours",
+            "date": "Sep 3,2018-Mar 28,2019",
+            "img": "http://placekitten.com/200/300",
+            "tags": [
+                "International Dance Series"
+            ]
+        }
+    ],
+
+    "performances": [
+        {
+            "id": 1,
+            "productionId": 2,
+            "title": "Workshop",
+            "allDay": false,
+            "start": "2019-02-21T19:30:00.000Z",
+            "end": "2019-02-21T21:00:00.000Z"
+        },
+        {
+            "id": 2,
+            "productionId": 2,
+            "title": "Performance A",
+            "allDay": false,
+            "start": "2019-02-22T19:30:00.000Z",
+            "end": "2019-02-22T21:00:00.000Z"
+        },
+        {
+            "id": 3,
+            "productionId": 2,
+            "title": "Performance A",
+            "allDay": false,
+            "start": "2019-02-23T19:30:00.000Z",
+            "end": "2019-02-23T21:00:00.000Z"
+        }
+    ],
+
+    "seats": [
+        {
+            "id": 1,
+            "performanceId": 1,
+            "label": "1A"
+        },
+        {
+            "id": 2,
+            "performanceId": 1,
+            "label": "2A"
+        },
+        {
+            "id": 3,
+            "performanceId": 1,
+            "label": "3A"
+        },
+        {
+            "id": 4,
+            "performanceId": 2,
+            "label": "1A"
+        },
+        {
+            "id": 5,
+            "performanceId": 3,
+            "label": "2A"
+        },
+        {
+            "id": 6,
+            "performanceId": 4,
+            "label": "3A"
+        }
+    ]
+}
